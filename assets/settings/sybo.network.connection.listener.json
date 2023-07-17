@@ -1,0 +1,11 @@
+{
+  "PingHost": "subway.prod.sybo.net",
+  "PingPort": 443,
+  "PingTimeoutInSeconds": 2.0,
+  "CheckIntervalInSeconds_NoConnection": 3.0,
+  "MinCheckIntervalInSeconds_WithConnection": 3.0,
+  "MaxCheckIntervalInSeconds_WithConnection": 30.0,
+  "CheckInternetTaskDelayInSeconds": 0.5,
+  "UserRequestedCheckResetsSystem": true,
+  "Offline_SecondInternetCheckDelaySeconds": 0.1
+}

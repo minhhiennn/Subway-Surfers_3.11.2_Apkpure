@@ -1,0 +1,18 @@
+{
+  "game": "subway",
+  "secret": "mmjn6wipcjeshozshfne",
+  "version": "3.11.2",
+  "platform": "android",
+  "lifecycle": "development",
+  "gamedata": "6e59b5364042657ba52dfeeebaa0e942620a6ee5",
+  "addressables": null,
+  "services": {
+    "subway-dev": "https://subway.dev.sybo.net",
+    "subway-prod": "https://subway.prod.sybo.net",
+    "subway-staging": "https://subway.stage.sybo.net"
+  },
+  "metadata": {
+    "analytics_sample": "100",
+    "support_url": "http://subwaysurfers.zendesk.com/hc"
+  }
+}

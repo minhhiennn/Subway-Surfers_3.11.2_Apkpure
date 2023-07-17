@@ -1,0 +1,7 @@
+name: Singular-v12.0.9-de24416e.master
+env: release
+git_commit: de24416e
+git_branch: master
+version_name: 12.0.9
+version_code:1
+build_date: Wed, 14 Dec 2022 12:31:33 +0200

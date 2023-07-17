@@ -1,0 +1,1049 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AnimationEventBroadcaster" preserve="all" />
+    <type fullname="ChallengeIconWidget" preserve="all" />
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+    <type fullname="FinalizeBehaviour" preserve="all" />
+    <type fullname="NestedEntityController" preserve="all" />
+    <type fullname="NextStageWidget" preserve="all" />
+    <type fullname="PreviewRenderer" preserve="all" />
+    <type fullname="SortingButton" preserve="all" />
+    <type fullname="SYBO.Common.AnimationClipPlayer" preserve="all" />
+    <type fullname="SYBO.Common.AnimationEventChannel" preserve="all" />
+    <type fullname="SYBO.Common.CameraFovScreenAspectAdjuster" preserve="all" />
+    <type fullname="SYBO.Common.ChangeLanguagePopupSlice" preserve="all" />
+    <type fullname="SYBO.Common.DetectClickWidget" preserve="all" />
+    <type fullname="SYBO.Common.ModelAttachPoints" preserve="all" />
+    <type fullname="SYBO.Common.ModelAttachPointType" preserve="all" />
+    <type fullname="SYBO.Common.OverlayCanvasContainer" preserve="all" />
+    <type fullname="SYBO.Common.Runtime.UI.UiOverrideColorModifier" preserve="all" />
+    <type fullname="SYBO.Common.SafeAreaAnchoring" preserve="all" />
+    <type fullname="SYBO.Common.TextMeshProClickLink" preserve="all" />
+    <type fullname="SYBO.Common.TextureLoader" preserve="all" />
+    <type fullname="SYBO.Common.UIDialogWindow" preserve="all" />
+    <type fullname="SYBO.Common.UIElementSpawner" preserve="all" />
+    <type fullname="SYBO.Common.UIRecycleScrolling" preserve="all" />
+    <type fullname="SYBO.Common.UIRecycleScrollingElement" preserve="all" />
+    <type fullname="SYBO.Common.UIRecycleScrollingSlot" preserve="all" />
+    <type fullname="SYBO.Common.UIRotate" preserve="all" />
+    <type fullname="SYBO.Common.WorkerQueue" preserve="all" />
+    <type fullname="SYBO.Components.Localization.UIIntegration.NumberLocalized" preserve="all" />
+    <type fullname="SYBO.Components.Localization.UIIntegration.TextMeshProLocalized" preserve="all" />
+    <type fullname="SYBO.Components.Localization.UIIntegration.UIUnlocalized" preserve="all" />
+    <type fullname="SYBO.Components.Pooling.ParticleSystemRecycler" preserve="all" />
+    <type fullname="SYBO.Components.Pooling.SpawnPool" preserve="all" />
+    <type fullname="SYBO.Components.UI.AlphaPropagator" preserve="all" />
+    <type fullname="SYBO.Components.UI.AnimationPropagator" preserve="all" />
+    <type fullname="SYBO.Components.UI.AnimationTargetEvents" preserve="all" />
+    <type fullname="SYBO.Components.UI.AnimationTargets" preserve="all" />
+    <type fullname="SYBO.Components.UI.BaseViewBackground" preserve="all" />
+    <type fullname="SYBO.Components.UI.BlackScreenTransitionConfig" preserve="all" />
+    <type fullname="SYBO.Components.UI.ComposedPopupSlice" preserve="all" />
+    <type fullname="SYBO.Components.UI.Effects.FlipEffect" preserve="all" />
+    <type fullname="SYBO.Components.UI.Effects.GradientEffect" preserve="all" />
+    <type fullname="SYBO.Components.UI.Effects.GradientImageEffect" preserve="all" />
+    <type fullname="SYBO.Components.UI.Effects.RepeatQuadImageEffect" preserve="all" />
+    <type fullname="SYBO.Components.UI.Effects.SquareRepeatImageEffect" preserve="all" />
+    <type fullname="SYBO.Components.UI.FillFollower" preserve="all" />
+    <type fullname="SYBO.Components.UI.HitBox" preserve="all" />
+    <type fullname="SYBO.Components.UI.InstantTransitionConfig" preserve="all" />
+    <type fullname="SYBO.Components.UI.InteractionBlocker" preserve="all" />
+    <type fullname="SYBO.Components.UI.Navigation" preserve="all" />
+    <type fullname="SYBO.Components.UI.NavigationManager" preserve="all" />
+    <type fullname="SYBO.Components.UI.NormalizedPositionController" preserve="all" />
+    <type fullname="SYBO.Components.UI.NormalizedPositionPropagator" preserve="all" />
+    <type fullname="SYBO.Components.UI.ProgressBar" preserve="all" />
+    <type fullname="SYBO.Components.UI.RadioGroup" preserve="all" />
+    <type fullname="SYBO.Components.UI.RenderImage" preserve="all" />
+    <type fullname="SYBO.Components.UI.ScaleRotationPropagator" preserve="all" />
+    <type fullname="SYBO.Components.UI.ScaleTransitionConfig" preserve="all" />
+    <type fullname="SYBO.Components.UI.SimpleAnimator.SimpleButtonAnimator" preserve="all" />
+    <type fullname="SYBO.Components.UI.SimpleAnimator.SimpleToggleButtonAnimator" preserve="all" />
+    <type fullname="SYBO.Components.UI.SimpleButton" preserve="all" />
+    <type fullname="SYBO.Components.UI.SimpleToggleButton" preserve="all" />
+    <type fullname="SYBO.Components.UI.Slice" preserve="all" />
+    <type fullname="SYBO.Components.UI.SliceManager" preserve="all" />
+    <type fullname="SYBO.Components.UI.SlicePanel" preserve="all" />
+    <type fullname="SYBO.Components.UI.SYBOButton" preserve="all" />
+    <type fullname="SYBO.Components.UI.SYBOSlider" preserve="all" />
+    <type fullname="SYBO.Components.UI.ToggleButton" preserve="all" />
+    <type fullname="SYBO.Components.UI.TransitionHandlers.ButtonActiveSpriteCrossFadeTransitionHandler" preserve="all" />
+    <type fullname="SYBO.Components.UI.TransitionHandlers.ButtonAlphaTransitionHandler" preserve="all" />
+    <type fullname="SYBO.Components.UI.TransitionHandlers.ButtonColorTransitionHandler" preserve="all" />
+    <type fullname="SYBO.Components.UI.TransitionHandlers.ButtonComposeTransitionHandler" preserve="all" />
+    <type fullname="SYBO.Components.UI.TransitionHandlers.ButtonScaleTransitionHandler" preserve="all" />
+    <type fullname="SYBO.Components.UI.UIColorSchemaProvider" preserve="all" />
+    <type fullname="SYBO.Components.UI.UIManager" preserve="all" />
+    <type fullname="SYBO.Components.UI.ViewBackgroundController" preserve="all" />
+    <type fullname="SYBO.Components.UI.ViewConfig" preserve="all" />
+    <type fullname="SYBO.HurdleDefault" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.ActivationRandomizer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.BoundarySlotAssetType" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.ChunkAssetPlacer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.ChunkBlockRenderer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.CoppaObjectSwitcher" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.DistanceRequiredChildRandomizer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.GroupChildRandomizer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.HurdleDefaultVisual" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.HurdleMalfunctioningVisual" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.MirrorRandomizer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.RandomChildRandomizer" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.RandomLane" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.SectionAlternatingOneConfig" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.SectionCompositeConfig" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.SectionRandomOneConfig" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.SectionRandomRollingConfig" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.SectionSequentialConfig" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.Snappable" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.SpeedPadDefault" preserve="all" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.TransitionSectionUp" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CameraZoneDetector" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterCollision" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterInputController" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterMotor" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterMotorAbilities" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterMotorConfig" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterTrigger" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CollisionAbility" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.JumpAbility" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.LaneChangeAbility" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.MovementAbility" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.RollAbility" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Entities.EntityType" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Entities.EntityTypeReference" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.Power" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigDefaultBoard" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigDoubleScore" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigJetpack" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigMagnet" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigMysteryDoubleCoin" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigMysteryDoubleJump" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigMysteryPlus10ScoreMultiplier" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigMysteryRandomBoard" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigSet" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigSpeedBoost" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Powers.PowerConfigSuperSneaker" preserve="all" />
+    <type fullname="SYBO.Subway.AchievementDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.AchievementRewardDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.AchievementRewardKeyAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.AchievementsStatusOverview" preserve="all" />
+    <type fullname="SYBO.Subway.AchievementTrophyWidget" preserve="all" />
+    <type fullname="SYBO.Subway.AchievementWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ActivePowerups" preserve="all" />
+    <type fullname="SYBO.Subway.AddedMultiplierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.AddressableCurrencyVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.AddressableSeasonHuntTokenRewardVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.AdMeterDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.AdMeterShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.AdsButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.AgeGateHandler" preserve="all" />
+    <type fullname="SYBO.Subway.AgeSelectionSlider" preserve="all" />
+    <type fullname="SYBO.Subway.Analytics.AnalyticsNavigationController" preserve="all" />
+    <type fullname="SYBO.Subway.Analytics.MeMenuAnalyticController" preserve="all" />
+    <type fullname="SYBO.Subway.Analytics.SendFTUEStepEvent" preserve="all" />
+    <type fullname="SYBO.Subway.AnimatedTeleportEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.AnimatorBoolSetter" preserve="all" />
+    <type fullname="SYBO.Subway.AnimatorRandomizer" preserve="all" />
+    <type fullname="SYBO.Subway.AnimatorStateTimeEvent" preserve="all" />
+    <type fullname="SYBO.Subway.AppUpdateHandler" preserve="all" />
+    <type fullname="SYBO.Subway.AssetManagement.FontAssetConfiguration" preserve="all" />
+    <type fullname="SYBO.Subway.AttHandler" preserve="all" />
+    <type fullname="SYBO.Subway.AudioClipInfo" preserve="all" />
+    <type fullname="SYBO.Subway.BackgroundController" preserve="all" />
+    <type fullname="SYBO.Subway.BackgroundCylinderParticles" preserve="all" />
+    <type fullname="SYBO.Subway.BackgroundLabelColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.BackgroundLayerObject" preserve="all" />
+    <type fullname="SYBO.Subway.BannerShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BaseDropdown" preserve="all" />
+    <type fullname="SYBO.Subway.BaseMissionsSlice" preserve="all" />
+    <type fullname="SYBO.Subway.BlendShapeListener" preserve="all" />
+    <type fullname="SYBO.Subway.BoardActionButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BoardCrewActionButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BoardDetailsWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BoardGrid" preserve="all" />
+    <type fullname="SYBO.Subway.BoardGridCell" preserve="all" />
+    <type fullname="SYBO.Subway.BoardRewardDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.BoardsPanel" preserve="all" />
+    <type fullname="SYBO.Subway.BoardUpgradeButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BoardUpgradeConfig" preserve="all" />
+    <type fullname="SYBO.Subway.BoombotShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BoosterPanel" preserve="all" />
+    <type fullname="SYBO.Subway.BoostsPanel" preserve="all" />
+    <type fullname="SYBO.Subway.BottomButtonMainMenuWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BoundaryConfig" preserve="all" />
+    <type fullname="SYBO.Subway.BreadcrumbNavigation" preserve="all" />
+    <type fullname="SYBO.Subway.BreadcrumbNotificationNode" preserve="all" />
+    <type fullname="SYBO.Subway.BreadcrumbNotificationNodeMultiplePaths" preserve="all" />
+    <type fullname="SYBO.Subway.BundleShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BundleWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BundleWithHighlightPopup" preserve="all" />
+    <type fullname="SYBO.Subway.BundleWithHighlightPromotionWidget" preserve="all" />
+    <type fullname="SYBO.Subway.BushCollisionEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.BuyBoombotPopup" preserve="all" />
+    <type fullname="SYBO.Subway.CalendarAccessWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CalendarPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.CalendarWidgetColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.CameraConfig" preserve="all" />
+    <type fullname="SYBO.Subway.CameraController" preserve="all" />
+    <type fullname="SYBO.Subway.CameraEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.CameraEnvironmentModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraFieldOfViewModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraFlyModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraGroundedModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraJumpModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraOccluder" preserve="all" />
+    <type fullname="SYBO.Subway.CameraOffsetModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraPogoModifier" preserve="all" />
+    <type fullname="SYBO.Subway.CameraRigController" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeAdRewardSlice" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeCompletedPopup" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeCostWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeGroupIconColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeGroupIconWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeHeaderScoreWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeMilestoneParticleEffect" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeObjectiveBanner" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengePlayerWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengePopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeProgressWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeStartedPopup" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeSuccessBanner" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeTab" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeTierColorSchemaReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeTravelWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChallengeWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ChangeLanguageSlice" preserve="all" />
+    <type fullname="SYBO.Subway.ChangeMusicSlice" preserve="all" />
+    <type fullname="SYBO.Subway.ChangeTopRunCountrySlice" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterActionButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAnimationAudio" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAnimationConfig" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAnimationEventTrigger" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAnimationEventType" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAnimationProp" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAnimationPropSet" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterAudio" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterBlinkController" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterCrewActionButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterDetailsWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterDistanceDespawner" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterEffectsConfig" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterEventRewardInfoWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterEyeFocusController" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterEyesConfig" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterGraphics" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterGraphicsController" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterGrid" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterGridCell" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterHuntProgressDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterInfo" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterMaterialPropertiesPropegator" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterMaterialSwapProp" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterPropsController" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterPropsRunEnabled" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterRenderImage" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterRewardDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterRotationController" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterShadowHide" preserve="all" />
+    <type fullname="SYBO.Subway.CharactersPanel" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterStumble" preserve="all" />
+    <type fullname="SYBO.Subway.CharacterThursdayPanel" preserve="all" />
+    <type fullname="SYBO.Subway.ChunkTrackHandler" preserve="all" />
+    <type fullname="SYBO.Subway.CityRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.ClaimMissedRewardSlice" preserve="all" />
+    <type fullname="SYBO.Subway.CloudSaveFlow" preserve="all" />
+    <type fullname="SYBO.Subway.CloudSaveProviderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CoinMeterRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CoinMeterWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CoinPickup" preserve="all" />
+    <type fullname="SYBO.Subway.ColorChangingMenuTeleportEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.ColorChangingTeleportEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.ColorReceivers.MilestoneColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.ComposedPopups.ComposedPopup" preserve="all" />
+    <type fullname="SYBO.Subway.ComposedPopups.ComposedPopupButtons" preserve="all" />
+    <type fullname="SYBO.Subway.ComposedPopups.ComposedPopupClickOutside" preserve="all" />
+    <type fullname="SYBO.Subway.ComposedPopups.ComposedPopupDynamicBackground" preserve="all" />
+    <type fullname="SYBO.Subway.ComposedPopups.ComposedPopupTitle" preserve="all" />
+    <type fullname="SYBO.Subway.ConditionalParameterModifier" preserve="all" />
+    <type fullname="SYBO.Subway.ConnectFacebookWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ConnectSocialProviderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ConsentFlowSceneContext" preserve="all" />
+    <type fullname="SYBO.Subway.ConsentFlowScreen" preserve="all" />
+    <type fullname="SYBO.Subway.ConstrainedAnimationSelector" preserve="all" />
+    <type fullname="SYBO.Subway.ConsumableItemPurchasePopup" preserve="all" />
+    <type fullname="SYBO.Subway.CooldownWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CopyRect" preserve="all" />
+    <type fullname="SYBO.Subway.CountdownWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CrewMultiplierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CrossPromoSlice" preserve="all" />
+    <type fullname="SYBO.Subway.CrossPromotionButton" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencyCounter" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencyImage" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencyProductWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencyRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencySalesColorSchemaReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencyShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.CurrencyVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.CurrentChunkLabel" preserve="all" />
+    <type fullname="SYBO.Subway.Curve" preserve="all" />
+    <type fullname="SYBO.Subway.CurveItemRepositioner" preserve="all" />
+    <type fullname="SYBO.Subway.CurveSpawner" preserve="all" />
+    <type fullname="SYBO.Subway.DailyChallengeTierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.DailyEventNameWidget" preserve="all" />
+    <type fullname="SYBO.Subway.DailyEventPanel" preserve="all" />
+    <type fullname="SYBO.Subway.DailyEventTab" preserve="all" />
+    <type fullname="SYBO.Subway.DailyKeysAdWatchingControl" preserve="all" />
+    <type fullname="SYBO.Subway.DailyRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.DailyVideoAdWatchingControl" preserve="all" />
+    <type fullname="SYBO.Subway.DailyVideoPopup" preserve="all" />
+    <type fullname="SYBO.Subway.DailyVideoWidget" preserve="all" />
+    <type fullname="SYBO.Subway.DataConsentHandler" preserve="all" />
+    <type fullname="SYBO.Subway.DataConsentSensitiveUIElement" preserve="all" />
+    <type fullname="SYBO.Subway.DataConsentSlice" preserve="all" />
+    <type fullname="SYBO.Subway.DataHandlingHandler" preserve="all" />
+    <type fullname="SYBO.Subway.DataHandlingPanel" preserve="all" />
+    <type fullname="SYBO.Subway.DataProtectionSlice" preserve="all" />
+    <type fullname="SYBO.Subway.DataProtectionUIVisibility" preserve="all" />
+    <type fullname="SYBO.Subway.DeathAnimationSet" preserve="all" />
+    <type fullname="SYBO.Subway.DefaultMenuTeleportEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.DefaultPromotionShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.DefaultTeleportEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.DescriptionTextPairContainer" preserve="all" />
+    <type fullname="SYBO.Subway.DialogPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.DisableSettingItemDuringRun" preserve="all" />
+    <type fullname="SYBO.Subway.DiscountBadgeColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.DizzyStarsEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.DoubleCoinsAdWatchingControl" preserve="all" />
+    <type fullname="SYBO.Subway.DoubleCoinsPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.DoubleJumpModelView" preserve="all" />
+    <type fullname="SYBO.Subway.DoubleScorePowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.DropdownPanel" preserve="all" />
+    <type fullname="SYBO.Subway.DynamicBundleShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EffectFollowPlayerAxis" preserve="all" />
+    <type fullname="SYBO.Subway.EliteChallengeExpander" preserve="all" />
+    <type fullname="SYBO.Subway.EliteChallengeHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EliteChallengeOverWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EliteChallengeTierClaimWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EliteChallengeTierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunBanner" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunCoinDoubler" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunCoinWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunInterstitialsControl" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunPanel" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunSequence" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunSingleProductPromoWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EndRunSlice" preserve="all" />
+    <type fullname="SYBO.Subway.EntityChildCollider" preserve="all" />
+    <type fullname="SYBO.Subway.EventCoinsMiniBar" preserve="all" />
+    <type fullname="SYBO.Subway.EventCoinsTopBarWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EventListener" preserve="all" />
+    <type fullname="SYBO.Subway.EventNameWidget" preserve="all" />
+    <type fullname="SYBO.Subway.EventRaiser" preserve="all" />
+    <type fullname="SYBO.Subway.EventScoreMultiplierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.FacebookConnectSlice" preserve="all" />
+    <type fullname="SYBO.Subway.FadingText" preserve="all" />
+    <type fullname="SYBO.Subway.FavoriteButton" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingEventCoinsListener" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingSprite" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingSpriteAnimationBehaviour" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingSpriteController" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingSpriteCurrencyCounter" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingSpriteCurrencyCounterHolder" preserve="all" />
+    <type fullname="SYBO.Subway.FlyingSpriteListener" preserve="all" />
+    <type fullname="SYBO.Subway.FootstepAudioClipInfo" preserve="all" />
+    <type fullname="SYBO.Subway.ForcedAppUpdateSceneContext" preserve="all" />
+    <type fullname="SYBO.Subway.FreeCoinsAdWatchingControl" preserve="all" />
+    <type fullname="SYBO.Subway.FreeLootBoxShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.FreeRewardAdBasedShop" preserve="all" />
+    <type fullname="SYBO.Subway.FreeStuffSocialProviderEntry" preserve="all" />
+    <type fullname="SYBO.Subway.FTUECloudSave" preserve="all" />
+    <type fullname="SYBO.Subway.FTUEConnectFBCollectDino" preserve="all" />
+    <type fullname="SYBO.Subway.FTUEFacebook" preserve="all" />
+    <type fullname="SYBO.Subway.FTUEHoverboardSlice" preserve="all" />
+    <type fullname="SYBO.Subway.FTUEPopupItem" preserve="all" />
+    <type fullname="SYBO.Subway.FTUEPopupNotification" preserve="all" />
+    <type fullname="SYBO.Subway.FTUETokenBox" preserve="all" />
+    <type fullname="SYBO.Subway.GameAudio" preserve="all" />
+    <type fullname="SYBO.Subway.GameController" preserve="all" />
+    <type fullname="SYBO.Subway.GameModeDifficultyUpWidget" preserve="all" />
+    <type fullname="SYBO.Subway.GameScreen" preserve="all" />
+    <type fullname="SYBO.Subway.GameVersionLabel" preserve="all" />
+    <type fullname="SYBO.Subway.GateController" preserve="all" />
+    <type fullname="SYBO.Subway.GeneralRewardSlice" preserve="all" />
+    <type fullname="SYBO.Subway.GenericDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.GenericVideoPlayerSlice" preserve="all" />
+    <type fullname="SYBO.Subway.GetResultSlice" preserve="all" />
+    <type fullname="SYBO.Subway.GliderAbility" preserve="all" />
+    <type fullname="SYBO.Subway.GliderPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.GreyedOutImageLoader" preserve="all" />
+    <type fullname="SYBO.Subway.GuardAndDogBehaviour" preserve="all" />
+    <type fullname="SYBO.Subway.GuardAndDogGraphics" preserve="all" />
+    <type fullname="SYBO.Subway.HeadstartEventDespawner" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardAnimationData" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardChallengeSuccessBanner" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardRenderImage" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardTutorialHandler" preserve="all" />
+    <type fullname="SYBO.Subway.HoverboardVisualPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.HuntsMainMenuWidget" preserve="all" />
+    <type fullname="SYBO.Subway.IAPPurchases.DeferredIAPSlice" preserve="all" />
+    <type fullname="SYBO.Subway.ImageLoader" preserve="all" />
+    <type fullname="SYBO.Subway.InfoPopup" preserve="all" />
+    <type fullname="SYBO.Subway.InfoPopupItemWidget" preserve="all" />
+    <type fullname="SYBO.Subway.InterpolatedMeshAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.IntValueWidget" preserve="all" />
+    <type fullname="SYBO.Subway.JetpackCloudController" preserve="all" />
+    <type fullname="SYBO.Subway.JetpackCoinSpawner" preserve="all" />
+    <type fullname="SYBO.Subway.JetpackEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.JetpackEventDespawner" preserve="all" />
+    <type fullname="SYBO.Subway.JetpackPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.JumpAbilityPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.KeyFrameAudioEventObject" preserve="all" />
+    <type fullname="SYBO.Subway.LandingChunkHelper" preserve="all" />
+    <type fullname="SYBO.Subway.LanguageSettingsButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.LeaderboardsPanel" preserve="all" />
+    <type fullname="SYBO.Subway.LeaderboardsScoreWidget" preserve="all" />
+    <type fullname="SYBO.Subway.LetterPickup" preserve="all" />
+    <type fullname="SYBO.Subway.LetterSpawner" preserve="all" />
+    <type fullname="SYBO.Subway.LimitedDealsBannerWidget" preserve="all" />
+    <type fullname="SYBO.Subway.LocalizationFailedDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.LootBoxContentPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.LootBoxProductShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.LootBoxRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.LootboxRewardDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.LootboxVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.LowriderPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.MagNeatOTeleportEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.Magnetizable" preserve="all" />
+    <type fullname="SYBO.Subway.Magnetizer" preserve="all" />
+    <type fullname="SYBO.Subway.MagnetPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.MailBoxEntryWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MailboxPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MailboxSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MailboxWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MainMenuAdWatchingControl" preserve="all" />
+    <type fullname="SYBO.Subway.MainMenuCitySlice" preserve="all" />
+    <type fullname="SYBO.Subway.MainMenuConnectionHelper" preserve="all" />
+    <type fullname="SYBO.Subway.MainMenuFTUE_Slice" preserve="all" />
+    <type fullname="SYBO.Subway.MainMenuInterstitialsControl" preserve="all" />
+    <type fullname="SYBO.Subway.MainMenuSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MainRunnerSceneContext" preserve="all" />
+    <type fullname="SYBO.Subway.MegaRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MenuBoardController" preserve="all" />
+    <type fullname="SYBO.Subway.MenuCharacter" preserve="all" />
+    <type fullname="SYBO.Subway.MenuHoverboardController" preserve="all" />
+    <type fullname="SYBO.Subway.MenuLightningEffect" preserve="all" />
+    <type fullname="SYBO.Subway.MenuLootboxController" preserve="all" />
+    <type fullname="SYBO.Subway.MeshAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.MeshBoardPreview" preserve="all" />
+    <type fullname="SYBO.Subway.MeshBoundsExpander" preserve="all" />
+    <type fullname="SYBO.Subway.MeshCharacterPreview" preserve="all" />
+    <type fullname="SYBO.Subway.MeshFlickering" preserve="all" />
+    <type fullname="SYBO.Subway.MeshPreviewController" preserve="all" />
+    <type fullname="SYBO.Subway.MeshTokenBoostPreview" preserve="all" />
+    <type fullname="SYBO.Subway.Meta.CoreRunner.BulletTimeInitiator" preserve="all" />
+    <type fullname="SYBO.Subway.Meta.GameStateEventController" preserve="all" />
+    <type fullname="SYBO.Subway.MilestoneReviveHintDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.MilestoneTickerWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MilestoneWidgetController" preserve="all" />
+    <type fullname="SYBO.Subway.MilestoneWidgetsLayout" preserve="all" />
+    <type fullname="SYBO.Subway.MiniStoreSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MissionDisplayWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MissionDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.MissionSetDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.MissionSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MissionsNavigationContext" preserve="all" />
+    <type fullname="SYBO.Subway.MissionStatusOverview" preserve="all" />
+    <type fullname="SYBO.Subway.ModularBackgroundColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.ModularBackgroundContext" preserve="all" />
+    <type fullname="SYBO.Subway.ModularBackgroundParticles" preserve="all" />
+    <type fullname="SYBO.Subway.ModularBackgroundRayRotater" preserve="all" />
+    <type fullname="SYBO.Subway.ModularBackgroundWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ModularRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MovingTrain" preserve="all" />
+    <type fullname="SYBO.Subway.MovingTrainBlinker" preserve="all" />
+    <type fullname="SYBO.Subway.MovingTrainBlinkerConfig" preserve="all" />
+    <type fullname="SYBO.Subway.MultipleBundlesPromotionPopup" preserve="all" />
+    <type fullname="SYBO.Subway.MultipleBundlesPromotionShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MultipleReviveRewardItem" preserve="all" />
+    <type fullname="SYBO.Subway.MultiplierIcon" preserve="all" />
+    <type fullname="SYBO.Subway.MultiplierTooltipEntry" preserve="all" />
+    <type fullname="SYBO.Subway.MultiplierUpgradeSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MultiplierUpgradeWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MusicPlayer" preserve="all" />
+    <type fullname="SYBO.Subway.MysteryHurdleDifficultyProgressWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MysteryHurdleDodgeCountWidget" preserve="all" />
+    <type fullname="SYBO.Subway.MysteryHurdleRunSlice" preserve="all" />
+    <type fullname="SYBO.Subway.MysteryHurdleTutorialSlice" preserve="all" />
+    <type fullname="SYBO.Subway.NativeBlackScreen" preserve="all" />
+    <type fullname="SYBO.Subway.NativeLoadingScreen" preserve="all" />
+    <type fullname="SYBO.Subway.NewHighscoreSlice" preserve="all" />
+    <type fullname="SYBO.Subway.NewSeasonHuntPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.NonConsumableProductRewardItemWidget" preserve="all" />
+    <type fullname="SYBO.Subway.NonConsumableRewardContainer2D" preserve="all" />
+    <type fullname="SYBO.Subway.NotEnoughCoinsOrKeysSlice" preserve="all" />
+    <type fullname="SYBO.Subway.NotEnoughEventCoinsSlice" preserve="all" />
+    <type fullname="SYBO.Subway.NotEnoughOtherCurrencySlice" preserve="all" />
+    <type fullname="SYBO.Subway.NotificationIndicatorWidget" preserve="all" />
+    <type fullname="SYBO.Subway.OffersPanel" preserve="all" />
+    <type fullname="SYBO.Subway.OfflineEarningsRewardedPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.OffsetEffect" preserve="all" />
+    <type fullname="SYBO.Subway.OutfitBaseConfig" preserve="all" />
+    <type fullname="SYBO.Subway.OutfitButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.OutfitIdleConfig" preserve="all" />
+    <type fullname="SYBO.Subway.OutfitMenuConfig" preserve="all" />
+    <type fullname="SYBO.Subway.OutfitRunConfig" preserve="all" />
+    <type fullname="SYBO.Subway.ParticleMatchCharacterSpeed" preserve="all" />
+    <type fullname="SYBO.Subway.ParticleScaleWithCharacterSpeed" preserve="all" />
+    <type fullname="SYBO.Subway.PauseSlice" preserve="all" />
+    <type fullname="SYBO.Subway.Pickup" preserve="all" />
+    <type fullname="SYBO.Subway.PickupAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.PickupDetector" preserve="all" />
+    <type fullname="SYBO.Subway.PickupRotator" preserve="all" />
+    <type fullname="SYBO.Subway.PlayerIndicatorTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.PlusTenScoreMultiplierPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.PogostickCoinSpawner" preserve="all" />
+    <type fullname="SYBO.Subway.PogostickEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.PogoStickPickup" preserve="all" />
+    <type fullname="SYBO.Subway.PogostickPickupConfig" preserve="all" />
+    <type fullname="SYBO.Subway.PowerupEventController" preserve="all" />
+    <type fullname="SYBO.Subway.PowerupIndicator" preserve="all" />
+    <type fullname="SYBO.Subway.PowerupPickupAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.PowerupRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.PowerupUpgradeLevelWidget" preserve="all" />
+    <type fullname="SYBO.Subway.PowerupUpgradeProductWidget" preserve="all" />
+    <type fullname="SYBO.Subway.PriceDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.ProductWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ProfileImageLoaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionColorSchemaReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionGroupSectionHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionInfoItem" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionInfoWidget" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionMenuButton" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionsButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.PromotionSingleItemColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.PropAnimationEventListener" preserve="all" />
+    <type fullname="SYBO.Subway.PropBlendShapeListener" preserve="all" />
+    <type fullname="SYBO.Subway.PurchaseButton" preserve="all" />
+    <type fullname="SYBO.Subway.PurchaseDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.QuestCountdownWidget" preserve="all" />
+    <type fullname="SYBO.Subway.QuestDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.QuestObjectiveWidget" preserve="all" />
+    <type fullname="SYBO.Subway.QuestRefreshWidget" preserve="all" />
+    <type fullname="SYBO.Subway.QuestSectionButton" preserve="all" />
+    <type fullname="SYBO.Subway.QuestsNoAccessWidget" preserve="all" />
+    <type fullname="SYBO.Subway.QuestsOverview" preserve="all" />
+    <type fullname="SYBO.Subway.QuestsOverviewColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.QuestWidgetAnimator" preserve="all" />
+    <type fullname="SYBO.Subway.RateSubwaySurfersSlice" preserve="all" />
+    <type fullname="SYBO.Subway.RestoreIAPPurchasesFlow" preserve="all" />
+    <type fullname="SYBO.Subway.RewardContainerColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.RewardDetailsWidget" preserve="all" />
+    <type fullname="SYBO.Subway.RewardDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.RewardedMeterBar" preserve="all" />
+    <type fullname="SYBO.Subway.RewardedMeterWidgets" preserve="all" />
+    <type fullname="SYBO.Subway.RewardImage" preserve="all" />
+    <type fullname="SYBO.Subway.RewardItemWidget" preserve="all" />
+    <type fullname="SYBO.Subway.RewardItemWidgetSeparateText" preserve="all" />
+    <type fullname="SYBO.Subway.RewardListPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.RewardMultiplierAdWatchingControl" preserve="all" />
+    <type fullname="SYBO.Subway.RollDirtEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.RotationEffect" preserve="all" />
+    <type fullname="SYBO.Subway.RouteConfig" preserve="all" />
+    <type fullname="SYBO.Subway.RunBoardController" preserve="all" />
+    <type fullname="SYBO.Subway.RunHintComponent" preserve="all" />
+    <type fullname="SYBO.Subway.RunHintSlice" preserve="all" />
+    <type fullname="SYBO.Subway.RunHintTextController" preserve="all" />
+    <type fullname="SYBO.Subway.RunHoverboardEventPropagator" preserve="all" />
+    <type fullname="SYBO.Subway.RunReviveMultipleAwardsScreen" preserve="all" />
+    <type fullname="SYBO.Subway.RunReviveSingleAwardScreen" preserve="all" />
+    <type fullname="SYBO.Subway.Runtime.Bootstrap.Shared.SharedSceneSetup" preserve="all" />
+    <type fullname="SYBO.Subway.SalesBannerWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ScaleEffect" preserve="all" />
+    <type fullname="SYBO.Subway.ScoreBonusEventBanner" preserve="all" />
+    <type fullname="SYBO.Subway.ScoreMultiplierEffects" preserve="all" />
+    <type fullname="SYBO.Subway.ScrollingGridController" preserve="all" />
+    <type fullname="SYBO.Subway.ScrollListFrozenElement" preserve="all" />
+    <type fullname="SYBO.Subway.ScrollListSnapping" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntInfoPopup" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntInfoWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntPanel" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntProgressWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntRepeatingTierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTierLabel" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTierWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTokenImageLoader" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTokenLoader" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTokenMultiplierRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTokenRewardContainer" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntTopBanner" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonHuntUnlockTierSequence" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonInfoWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonMeterRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonMeterWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonOverPopup" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonPointsCounter" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonRewardItemWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonSubheaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonTierRewardItemsWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SeasonTokenDisplayWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SectionHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SelectCrewSlice" preserve="all" />
+    <type fullname="SYBO.Subway.SelfDestructEffect" preserve="all" />
+    <type fullname="SYBO.Subway.SequentialScheduler" preserve="all" />
+    <type fullname="SYBO.Subway.SetParticleSpeed" preserve="all" />
+    <type fullname="SYBO.Subway.SettingsButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SettingsSlice" preserve="all" />
+    <type fullname="SYBO.Subway.ShadowEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.ShadowThemeController" preserve="all" />
+    <type fullname="SYBO.Subway.SharedSceneContext" preserve="all" />
+    <type fullname="SYBO.Subway.ShopLayoutGroupCollection" preserve="all" />
+    <type fullname="SYBO.Subway.ShopNavigationContext" preserve="all" />
+    <type fullname="SYBO.Subway.ShopPanel" preserve="all" />
+    <type fullname="SYBO.Subway.ShopSeasonHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ShopWidgetCollection" preserve="all" />
+    <type fullname="SYBO.Subway.SimpleParticleEffectsController" preserve="all" />
+    <type fullname="SYBO.Subway.SimpleWarpsMenuTeleportEffectController" preserve="all" />
+    <type fullname="SYBO.Subway.SingleItemProductShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SingleItemSlotsShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SingleProductPromotionPopup" preserve="all" />
+    <type fullname="SYBO.Subway.SingleRewardDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.SingleSpawner" preserve="all" />
+    <type fullname="SYBO.Subway.SkinnableItemPurchasePopup" preserve="all" />
+    <type fullname="SYBO.Subway.SkinnedRewardWidgetColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.SkipSeasonTierPopup" preserve="all" />
+    <type fullname="SYBO.Subway.SkyboxColorModifier" preserve="all" />
+    <type fullname="SYBO.Subway.SmartPromotionGroupWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SmoothFollow" preserve="all" />
+    <type fullname="SYBO.Subway.SmoothLayerWeightSetter" preserve="all" />
+    <type fullname="SYBO.Subway.SocialMediaBannerWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SocialMediaRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SocialMediaSectionHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.SpawnID" preserve="all" />
+    <type fullname="SYBO.Subway.SpawnIDCollection" preserve="all" />
+    <type fullname="SYBO.Subway.SpawnLocation" preserve="all" />
+    <type fullname="SYBO.Subway.SpeedBoostPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.Speedometer" preserve="all" />
+    <type fullname="SYBO.Subway.SpeedometerGear" preserve="all" />
+    <type fullname="SYBO.Subway.SpeedupPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.StackedMultiplierListWidget" preserve="all" />
+    <type fullname="SYBO.Subway.StagesIndicatorWidget" preserve="all" />
+    <type fullname="SYBO.Subway.State.RunnerStateMachine" preserve="all" />
+    <type fullname="SYBO.Subway.State.RunnerStateMachineEventContainer" preserve="all" />
+    <type fullname="SYBO.Subway.State.RunnerStateMachineVariablesContainer" preserve="all" />
+    <type fullname="SYBO.Subway.StripedBackgroundColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.StumbleTrigger" preserve="all" />
+    <type fullname="SYBO.Subway.SubwayChunk" preserve="all" />
+    <type fullname="SYBO.Subway.SubwayEntity" preserve="all" />
+    <type fullname="SYBO.Subway.SurpriseGiftRewardedPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.DefaultMainCharacterSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainBoosterSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainEnemySystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainHoverboardSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainPowerSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainReviveSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainRouteGenerationSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainRunDebugSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainSpawnSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainTrainAudioSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainTutorialSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.MainUpgradeSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.SharedRewardViewSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.SharedUIItemVisualsSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.SharedViewConfigSystemData" preserve="all" />
+    <type fullname="SYBO.Subway.Systems.SystemDataContainer" preserve="all" />
+    <type fullname="SYBO.Subway.TabbedNavigationContext" preserve="all" />
+    <type fullname="SYBO.Subway.TabbedPanel" preserve="all" />
+    <type fullname="SYBO.Subway.TabbedSlice" preserve="all" />
+    <type fullname="SYBO.Subway.TeleportPowerEffect" preserve="all" />
+    <type fullname="SYBO.Subway.TerrificTuesdayPanel" preserve="all" />
+    <type fullname="SYBO.Subway.TextureOffsetAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeConfig" preserve="all" />
+    <type fullname="SYBO.Subway.ThemedTrack" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeEffectAttachToPlayer" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeEffectAttachToPlayerExcept" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeEffectChristmas" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeEffectFollowPlayer" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeEffectFollowPlayerZOnly" preserve="all" />
+    <type fullname="SYBO.Subway.ThemeEffectGreenJam" preserve="all" />
+    <type fullname="SYBO.Subway.ThinkingOverlay" preserve="all" />
+    <type fullname="SYBO.Subway.ThreeSeparateProductsPromotionsPopup" preserve="all" />
+    <type fullname="SYBO.Subway.ThumbnailBoardController" preserve="all" />
+    <type fullname="SYBO.Subway.ThumbnailColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.ThumbnailsContainerColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.ThumbnailsElasticRowWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ThumbnailsLayoutWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TimedRichesRewardedPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunAudio" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunBar" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunReviveScreen" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunSlice" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunTimeGained" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunTimesUp" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedRunWarning" preserve="all" />
+    <type fullname="SYBO.Subway.TimeLimitedShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TimerColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.TLRTimeReviveHintDisplay" preserve="all" />
+    <type fullname="SYBO.Subway.TMPAutoSizeHelper" preserve="all" />
+    <type fullname="SYBO.Subway.TokenBoxShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TokenMultiplierShopWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TopBarMultiplierTip" preserve="all" />
+    <type fullname="SYBO.Subway.TopMenuBar" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunAndLeaderboardsSlice" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunBracketInfoButtonController" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunBracketVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunBracketWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunCountryButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunHeader" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunMedalWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunPanel" preserve="all" />
+    <type fullname="SYBO.Subway.TopRunScoreWidget" preserve="all" />
+    <type fullname="SYBO.Subway.TrackControllerDynamic" preserve="all" />
+    <type fullname="SYBO.Subway.TrackControllerStatic" preserve="all" />
+    <type fullname="SYBO.Subway.TrailRendererController" preserve="all" />
+    <type fullname="SYBO.Subway.TrainMaterialHelper" preserve="all" />
+    <type fullname="SYBO.Subway.TriggeredAnimationPlayer" preserve="all" />
+    <type fullname="SYBO.Subway.TriggeredThemeVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.TrophyVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.TryItemRewardedPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.TunnelController" preserve="all" />
+    <type fullname="SYBO.Subway.TunnelEffectsModifier" preserve="all" />
+    <type fullname="SYBO.Subway.TutorialArrow" preserve="all" />
+    <type fullname="SYBO.Subway.TutorialCheckpoint" preserve="all" />
+    <type fullname="SYBO.Subway.TutorialSlice" preserve="all" />
+    <type fullname="SYBO.Subway.TutorialStepTrigger" preserve="all" />
+    <type fullname="SYBO.Subway.UI.ClickableTooltipBehaviour" preserve="all" />
+    <type fullname="SYBO.Subway.UI.CoinMeterRewardTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.UI.DismissableTooltipBehaviour" preserve="all" />
+    <type fullname="SYBO.Subway.UI.GenericCallbackTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.UI.GenericDoubleTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.UI.GenericTimerTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.UI.GenericTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.UI.MoveableTooltipBehaviour" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.CalendarWidgetColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.Challenge.ChallengeWidgetColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.ChallengeHeaderScoreWidgetColorSchemaReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.ChallengeHeaderWidgetColorSchemaReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.ModularBackgroundColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.Promotion.CurrencySaleWidgetColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.Promotion.PromotionWidgetColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.Promotion.PromotionWidgetSingleItemColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.QuestOverviewColorSchemaGroup" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.UIColorSchemaCollection" preserve="all" />
+    <type fullname="SYBO.Subway.UI.Schemas.WorldTourWidgetColorReceiver" preserve="all" />
+    <type fullname="SYBO.Subway.UI.TooltipBehavior" preserve="all" />
+    <type fullname="SYBO.Subway.UI.TooltipParentContainerBehaviour" preserve="all" />
+    <type fullname="SYBO.Subway.UI.TopRunBracketRewardTooltip" preserve="all" />
+    <type fullname="SYBO.Subway.UIAnimatedCounting" preserve="all" />
+    <type fullname="SYBO.Subway.UIAnimation" preserve="all" />
+    <type fullname="SYBO.Subway.UIAnimationPositioner" preserve="all" />
+    <type fullname="SYBO.Subway.UITimeIndicator" preserve="all" />
+    <type fullname="SYBO.Subway.UITimeUpdater" preserve="all" />
+    <type fullname="SYBO.Subway.UpcomingWorldTourEventWidget" preserve="all" />
+    <type fullname="SYBO.Subway.UpdateTheAppSlice" preserve="all" />
+    <type fullname="SYBO.Subway.UserWarningDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.VariableAnimationSelector" preserve="all" />
+    <type fullname="SYBO.Subway.VideoPlayerPlayButtonWidget" preserve="all" />
+    <type fullname="SYBO.Subway.ViewportCatcher" preserve="all" />
+    <type fullname="SYBO.Subway.VisualLootEntryWidget" preserve="all" />
+    <type fullname="SYBO.Subway.VisualRewardEntryWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WaitAndTrigger" preserve="all" />
+    <type fullname="SYBO.Subway.WeightedChildRandomizer" preserve="all" />
+    <type fullname="SYBO.Subway.WeightedScheduler" preserve="all" />
+    <type fullname="SYBO.Subway.WelcomeCityPopupSlice" preserve="all" />
+    <type fullname="SYBO.Subway.WildWednesdayPanel" preserve="all" />
+    <type fullname="SYBO.Subway.WordHuntDayRewardWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WordHuntPanel" preserve="all" />
+    <type fullname="SYBO.Subway.WordHuntProgressDropdownVisuals" preserve="all" />
+    <type fullname="SYBO.Subway.WordHuntStateWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WordyWeekendPanel" preserve="all" />
+    <type fullname="SYBO.Subway.WorldTourEventWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WorldTourHeaderWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WorldTourNoSeasonSectionWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WorldTourSectionWidget" preserve="all" />
+    <type fullname="SYBO.Subway.WorldTourSlice" preserve="all" />
+    <type fullname="Theme" preserve="all" />
+    <type fullname="ThemedAsset" preserve="all" />
+    <type fullname="ThemedAssetOverrides" preserve="all" />
+    <type fullname="ThemedAssetType" preserve="all" />
+    <type fullname="SYBO.RunnerCore.Character.CharacterTriggerEvent" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BackgroundLayer" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BoundaryTrackInfo" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BoundaryTransitionInfo" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ThemedTrackConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="Theme/Entry" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.JointMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.WeightedChild" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CharacterOutfitVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.MenuModelTransformOffset" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ToggleMesh" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BlendShapeListener/BlendShapeConnection" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CharacterAnimationEventHandler" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CharacterAnimationEventTrigger/AnimationClipEventInfo" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CharacterAnimationEventTrigger/CharacterAnimationEventInfo" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CharacterAnimatorStateEvents" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.EyeBlinkSettings" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.EyeFocusSettings" preserve="nothing" serialized="true" />
+    <type fullname="Theme/Group" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.ModelAttachPoint" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AnimatorParameterCondition" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AnimationConstraint" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AnimatorStateConstraints" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.ToggleFloat" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Components.UnityCollections.UnityCollectionConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.DynamicBackgroundSettings" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.LayoutCellSize" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Meta.CurrencyType" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ModularRewardWidget/TypedRewardContainer" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.NotificationIndicatorWidget/NotificationVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.RewardTypeVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ThumbnailsLayoutWidget/MixedLayoutConfig" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ViewConfigId" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Components.UI.RadioEvent" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Components.UI.ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CustomHoverboardPowerConfigMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CustomHoverboardPowerMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.HoverboardPowerMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.InputEventMysteryWrapper" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.InputEventWrapper" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Meta.Data.Challenge.RunHint" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Meta.PowerUpUpgradeSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SpawnVisualEntry" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SpawnVisualsData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Systems.HeadstartTier" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Systems.HoverboardPowerUIVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Tutorial.TutorialRewindSetting" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Tutorial.TutorialSetData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.WeightedPrefab" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.FootstepMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.KeyFrameInfo" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BoardAddition" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BackHandling" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.MainMenuCitySlice/SuccessBannerMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SkinnableItemActionButton/NonConsumableItemActionButtonState" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SocialProviderID" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.TopRunBracketConfig" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.MissionDisplayFeedbackConfig" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.BreadcrumbNavigation/BreadcrumbNavigationTarget" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.NotificationPathSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ProgressVisualStateElements" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.FlyingSpriteIdentifierAndDestination" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.EndRunPromotionBannerMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.MilestoneColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ColorReceiver" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.DailyEventTab/DailyEventPanelMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SeasonHuntTierVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SeasonRewardItemWidget/SpecialVisualElement" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.StateVisualsMap" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.HintVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Vector2ParameterSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.DifficultySectionVisual" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SectionVisual" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Components.Pooling.PrefabPool" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Components.Pooling.SpawnPool/PrefabPoolGroup" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AddressableCurrencyPackVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AddressableSeasonHuntTokenVisualSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AddressableSeasonalCurrencyVisualSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Analytics.TabNavigation" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CameraConfigWrapper" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CurrencyPackVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.EventAudioMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.FlyingSpriteSetup" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.FlyingSpriteSetup/FlyingSpriteAmountMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.IntInterval" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ItemVisualSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ModularBackgroundColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ProductViewConfigMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.PromotionPopupTypeMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.RewardViewPair" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.RewardViewRule" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ScoreMultiplierItemVisual" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SliceViewConfigMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.BackgroundLabelColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.CalendarWidgetColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.ChallengeEventWidgetColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.ChallengeTierColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.ChallengeWidgetColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.CurrencySaleWidgetColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.DiscountBadgeColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.LabelFontData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.PromotionMixedContentWidgetColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.PromotionSingleItemWidgetColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.QuestOverviewColorSchema" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.RewardContainerColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.RewardLayoutColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.SkinRewardColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.StripedBackgroundColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.ThumbnailColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.Schemas.TimerColorData" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.TooltipArrowAnchorPosition" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.UI.TooltipMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.BoolReference" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.IntReference" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AnimationEventAudioMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.Meta.CurrencyVariableMapping" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.WeightedPowerConfig" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.ConstraintPair" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.WeightedSpawnEntry" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.ToggleAnimationCurve" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.ToggleBool" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Common.ToggleInt" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.AnimationOverrideSet" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CameraFieldOfViewModifier/AbilityWrapper" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.CameraJumpModifier/AbilityWrapper" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.FlightModeVisuals" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.BoundarySlotStreak" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.Chunk/ChunkInfo" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.ChunkBoundarySlot" preserve="nothing" serialized="true" />
+    <type fullname="Vector3i" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.Subway.SequentialSpawnEntry" preserve="nothing" serialized="true" />
+    <type fullname="AssetOverrideEntry" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.HurdlePlayableAnimation" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.HurdlePlayableAnimationGroup" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.HurdlePlayableAudio" preserve="nothing" serialized="true" />
+    <type fullname="SYBO.RunnerCore.BuildingBlocks.HurdlePlayableAudioGroup" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SYBO.CrossPromo, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SYBO.CrossPromo.CrossPromoPresenter" preserve="all" />
+    <type fullname="SYBO.CrossPromo.Loaders.ImageLoader" preserve="all" />
+    <type fullname="SYBO.CrossPromo.Render.ImageXpRenderer" preserve="all" />
+    <type fullname="SYBO.CrossPromo.Render.VideoXpRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.Initialization.CacheInitialization" preserve="all" />
+    <type fullname="UnityEngine.AddressableAssets.Initialization.CacheInitializationData" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.AvatarMask" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioHighPassFilter" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.ShaderVariantCollection" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.CharacterController" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

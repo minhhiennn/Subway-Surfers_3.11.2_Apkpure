@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055792361676",
+    "firebase_url": "https://api-project-1055792361676.firebaseio.com",
+    "project_id": "api-project-1055792361676",
+    "storage_bucket": "api-project-1055792361676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055792361676:android:94e1faead5ee4c7281d269",
+        "android_client_info": {
+          "package_name": "com.kiloo.subwaysurf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055792361676-m6mrcf2jea1l7c6j6819bn49kosn93tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIrgHn1QjOvdtW6AjpMUytqrLOCJN9al8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055792361676-m6mrcf2jea1l7c6j6819bn49kosn93tt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055792361676-21gcnr9d556p26sht4nhd5jn464i0em3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kiloo.subwaysurfers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

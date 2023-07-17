@@ -1,0 +1,26 @@
+{
+  "ButtonTemplatePath": "Assets/SYBO/Components/UI/Source/Prefabs/Button.prefab",
+  "ToggleTemplatePath": "Assets/SYBO/Components/UI/Source/Prefabs/ToggleButton.prefab",
+  "ProgressBarTemplatePath": "Assets/SYBO/Components/UI/Source/Prefabs/ProgressBar.prefab",
+  "SliceTemplatePath": "Assets/SYBO/Components/UI/Source/Prefabs/Slice.prefab",
+  "LibraryRootDirectory": "Assets/Art/UI/UILibrary/",
+  "LibraryItemPrefixes": "slice_,widget_,button_,Popup_Prefab_",
+  "SliceSearchQuery": "slice_",
+  "Categories": [
+    {
+      "Name": "SliceTemplates",
+      "Order": 1,
+      "InstantiationMode": 1
+    },
+    {
+      "Name": "Buttons",
+      "Order": 0,
+      "InstantiationMode": 0
+    },
+    {
+      "Name": "Other",
+      "Order": 2,
+      "InstantiationMode": 0
+    }
+  ]
+}
